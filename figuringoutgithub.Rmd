@@ -28,11 +28,7 @@ describe(mpg)
 #more changes 
 table(d$mpg)
 
-<<<<<<< HEAD
-=======
-# changes to be in branch 
-table(d$hp)
->>>>>>> refs/remotes/origin/master
+
 
 
 ```
