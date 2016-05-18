@@ -27,6 +27,11 @@ describe(mpg)
 
 #more changes 
 table(d$mpg)
+
+# changes to be in branch 
+table(d$hp)
+
+
 ```
 
 ## Including Plots
