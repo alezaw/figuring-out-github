@@ -24,6 +24,9 @@ setwd("C:/Users/Aleza/Box Sync/figuring out github")
 d <- read.csv('mtcars.csv', header = T)
 names(d)
 describe(mpg)
+
+#more changes 
+table(d$mpg)
 ```
 
 ## Including Plots
