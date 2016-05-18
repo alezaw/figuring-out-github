@@ -19,6 +19,11 @@ When you click the **Knit** button a document will be generated that includes bo
 summary(cars)
 
 #change
+
+setwd("C:/Users/Aleza/Box Sync/figuring out github")
+d <- read.csv('mtcars.csv', header = T)
+names(d)
+describe(mpg)
 ```
 
 ## Including Plots
