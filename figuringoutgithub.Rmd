@@ -28,9 +28,6 @@ describe(mpg)
 #more changes 
 table(d$mpg)
 
-
-
-
 ```
 
 ## Including Plots
